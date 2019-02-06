@@ -29,9 +29,7 @@ requirements = [
     'matplotlib==2.2.*',
     'scipy==1.1.*',
     'numpy==1.13.*',
-    'pandas==0.23.*',
-    'requests==2.19.1',
-    'scikit-learn==0.19.*',
+    'pandas==0.23.*'
 ]
 
 
